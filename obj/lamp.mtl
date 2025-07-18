@@ -1,0 +1,25 @@
+# Blender 4.2.3 LTS MTL File: 'hanging_industrial_lamp_4k.blend'
+# www.blender.org
+
+newmtl hanging_industrial_lamp
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_diff_4k.jpg
+map_Ns C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_rough_4k.exr
+map_refl C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_metal_4k.exr
+map_Ke C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_emissive_4k.png
+map_Bump -bm 1.000000 C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_nor_gl_4k.exr
+
+newmtl hanging_industrial_lamp_glass
+Ns 810.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/korel/AppData/Local/Temp/31e814ac-50d4-4bd6-bfef-e730ff677365_hanging_industrial_lamp_4k.blend.zip.365/textures/hanging_industrial_lamp_glass_nor_gl_4k.png
